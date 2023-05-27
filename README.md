@@ -3,7 +3,7 @@ a NER presentation with a project that uses the MIT_Restaurants dataset to detec
 
 
 ![1](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/ea725481-854c-4ad0-ab90-d0a2600c0a29)
-![2](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/e8a1f0a4-b2f0-4c5b-859c-1b4f3dba5af9)
+![2](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/ce4b1544-2be6-4496-ad75-6ef8d7990945)
 ![3](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/6a2d02ed-ba9c-474c-9674-d502ff661645)
 ![4](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/94d2b5cd-6845-43d0-b742-3676ee2e5bed)
 ![5](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/62a768e9-c0cc-49f4-85e3-98491513f2d2)
