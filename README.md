@@ -1,5 +1,29 @@
-# NER-presentation-MITRestaurants-NLP
-a NER presentation with a project that uses the MIT_Restaurants dataset to detects restaurant theme entitities in a text given, it helps with search engines .etc
+# Named Entity Recognition on MIT Restaurants
+
+Token-level named entity recognition for restaurant search queries, trained on the MIT Restaurants dataset. Each word of a query is tagged with an entity type (rating, location, cuisine, dish and so on), which is useful for search and question-answering systems.
+
+## Entities
+
+The dataset uses BIO tagging over eight entity types: Rating, Amenity, Location, Restaurant_Name, Price, Hours, Dish and Cuisine (17 tags including `O`).
+
+## Repository contents
+
+| Path | Content |
+|---|---|
+| `codesource/Projet_khalid_restaurant_json.ipynb` | Main notebook: data preparation, TF-IDF features, scikit-learn classifiers, evaluation |
+| `codesource/TP4_MHASNIKhalid_NLP_MIAAD.ipynb` | Course lab notebook (TP4) |
+| `dataset/train.json`, `dataset/test.json` | Tokens and tag ids, one JSON object per line (63,269 training tokens, 14,256 test tokens) |
+| `dataset/label.json` | Mapping between tag names and ids |
+| `présentation/` | Slides introducing NER |
+
+## Running it
+
+1. `pip install pandas numpy scikit-learn nltk seaborn matplotlib`
+2. Place `train.json`, `test.json` and `label.json` next to the notebook (it reads them from the working directory).
+3. Run `codesource/Projet_khalid_restaurant_json.ipynb` in Jupyter or Google Colab.
+
+## Presentation slides
+
 
 
 ![1](https://github.com/KhalidMHASNI/NER-presentation-MITRestaurants-NLP/assets/82038554/ea725481-854c-4ad0-ab90-d0a2600c0a29)
